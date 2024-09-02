@@ -167,6 +167,8 @@ text-align: center;
 /* FOOTER */
 .page-footer {
   background-color: #2e2f42;
+  width: 1440px;
+  height: 312px;
 }
 .page-footer p {
   font-weight: 400;
